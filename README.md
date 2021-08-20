@@ -8,4 +8,4 @@
 
 :mortar_board:  Majoring in Information Systems at the [Federal Institute of Alagoas](https://www2.ifal.edu.br/en)
 
-:man_technologist:  Currently working at [RD Station](https://github.com/ResultadosDigitais)
+:man_technologist:  Currently working at [Streetbees](https://github.com/Streetbees)
