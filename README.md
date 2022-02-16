@@ -8,4 +8,4 @@
 
 :mortar_board:  Majoring in Information Systems at the [Federal Institute of Alagoas](https://www2.ifal.edu.br/en)
 
-:bee:  Currently working at [Streetbees](https://www.streetbees.com/)
+<!-- :bee:  Currently working at [Streetbees](https://www.streetbees.com/) -->
